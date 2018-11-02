@@ -1,5 +1,5 @@
 # platform specific configuration items
-import /init.giraffe.usb.rc
+import /init.310ds.usb.rc
 import /init.modem.rc
 
 on early-init
